@@ -13,3 +13,6 @@
 
 # Mac Finder Files
 .DS_Store
+
+# dotenv
+\.env
